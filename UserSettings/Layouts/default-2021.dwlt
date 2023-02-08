@@ -19,7 +19,7 @@ MonoBehaviour:
     width: 1536
     height: 772.8
   m_ShowMode: 4
-  m_Title: Game
+  m_Title: Project
   m_RootView: {fileID: 4}
   m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
@@ -74,7 +74,7 @@ MonoBehaviour:
   m_MinSize: {x: 100, y: 200}
   m_MaxSize: {x: 8096, y: 16192}
   vertical: 1
-  controlID: 92
+  controlID: 107
 --- !u!114 &4
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -150,7 +150,7 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 200}
   m_MaxSize: {x: 24288, y: 16192}
   vertical: 0
-  controlID: 91
+  controlID: 17
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -242,8 +242,8 @@ MonoBehaviour:
     y: 0
     width: 564.8
     height: 722.8
-  m_MinSize: {x: 276, y: 71}
-  m_MaxSize: {x: 4001, y: 4021}
+  m_MinSize: {x: 275, y: 50}
+  m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 13}
   m_Panes:
   - {fileID: 13}
@@ -336,7 +336,7 @@ MonoBehaviour:
     m_ControlHash: -371814159
     m_PrefName: Preview_InspectorPreview
   m_LastInspectedObjectInstanceID: -1
-  m_LastVerticalScrollValue: 0
+  m_LastVerticalScrollValue: 311.2
   m_GlobalObjectId: 
   m_InspectorMode: 0
   m_LockTracker:
@@ -383,22 +383,21 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Course Library/Obstacles
+    - Assets/Scripts
     m_Globs: []
     m_OriginalText: 
   m_ViewMode: 0
   m_StartGridSize: 64
-  m_LastFolders:
-  - Assets
+  m_LastFolders: []
   m_LastFoldersGridSize: -1
-  m_LastProjectPath: C:\Users\jtfor\Code\git\Create with Code\My project
+  m_LastProjectPath: C:\Users\jtfor\Code\git\Scripting
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: d25a0000
     m_LastClickedID: 23250
-    m_ExpandedIDs: 00000000d25a0000d45a000000ca9a3b
+    m_ExpandedIDs: 00000000fe590000005a0000025a0000045a0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -423,24 +422,24 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
   m_AssetTreeState:
-    scrollPos: {x: 0, y: 0}
+    scrollPos: {x: 0, y: 173}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: ffffffff00000000d25a0000d45a0000e05a00001c5b0000
+    m_ExpandedIDs: ffffffff00000000fe590000005a0000025a0000045a0000285a00002a5a0000445a0000465a0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
-      m_Name: Prop_Spool_02
-      m_OriginalName: Prop_Spool_02
+      m_Name: 
+      m_OriginalName: 
       m_EditFieldRect:
         serializedVersion: 2
         x: 0
         y: 0
         width: 0
         height: 0
-      m_UserData: 23502
+      m_UserData: 0
       m_IsWaitingForDelay: 0
       m_IsRenaming: 0
-      m_OriginalEventType: 0
+      m_OriginalEventType: 11
       m_IsRenamingFilename: 1
       m_ClientGUIView: {fileID: 12}
     m_SearchString: 
@@ -832,9 +831,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -5.021279, y: 5.236846, z: 13.990936}
+    m_Target: {x: -19.421844, y: 6.262493, z: 89.698746}
     speed: 2
-    m_Value: {x: -5.021279, y: 5.236846, z: 13.990936}
+    m_Value: {x: -19.421844, y: 6.262493, z: 89.698746}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -881,13 +880,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: -0.079080656, y: 0.034083225, z: -0.00270533, w: -0.99628234}
+    m_Target: {x: -0.018946294, y: -0.7941871, z: 0.024794374, w: -0.60687464}
     speed: 2
-    m_Value: {x: -0.07908061, y: 0.034083206, z: -0.0027053284, w: -0.99628174}
+    m_Value: {x: -0.01894626, y: -0.7941857, z: 0.024794329, w: -0.6068736}
   m_Size:
-    m_Target: 13.285471
+    m_Target: 0.9441036
     speed: 2
-    m_Value: 13.285471
+    m_Value: 0.9441036
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -942,24 +941,24 @@ MonoBehaviour:
     m_SaveData: []
   m_SceneHierarchy:
     m_TreeViewState:
-      scrollPos: {x: 0, y: 45.200012}
-      m_SelectedIDs: cc5b0000
+      scrollPos: {x: 0, y: 29.200012}
+      m_SelectedIDs: 045a0000
       m_LastClickedID: 0
-      m_ExpandedIDs: 34fbfffff2590000
+      m_ExpandedIDs: e2f5ffff34fbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
-        m_Name: Crate_01 (1)
-        m_OriginalName: Crate_01 (1)
+        m_Name: 
+        m_OriginalName: 
         m_EditFieldRect:
           serializedVersion: 2
           x: 0
           y: 0
           width: 0
           height: 0
-        m_UserData: -25948
+        m_UserData: 0
         m_IsWaitingForDelay: 0
         m_IsRenaming: 0
-        m_OriginalEventType: 0
+        m_OriginalEventType: 11
         m_IsRenamingFilename: 0
         m_ClientGUIView: {fileID: 11}
       m_SearchString: 
